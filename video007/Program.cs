@@ -13,6 +13,8 @@ namespace video007 {
             Console.WriteLine("olá mundo!");
             Console.WriteLine(d1.Year);
 
+            Console.WriteLine("Bom dia");
+
             Console.ReadLine();
         }
     }
